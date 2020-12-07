@@ -1,0 +1,12 @@
+{
+  "name": "qr-voucher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pavoltravnik/qr-voucher.git",
+  "author": "Pavol Travnik <pavol.travnik@arbitrust.org>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  }
+}
